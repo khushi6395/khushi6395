@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Khushi Sharma 👋
 
-<!--
-**khushi6395/khushi6395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Learning QA Engineering
+- Currently learning Postman API Testing 
+- Interested in Automation Testing and Selenium
+- Improving testing and debugging skills
 
-Here are some ideas to get you started:
+## Skills
+- Manual Testing
+- API Testing
+- Postman
+- Bug Reporting
+- Test Case Writing
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Currently Learning
+- Postman Collections
+- REST API Testing
+- Selenium WebDriver
+
+## Projects
+- Postman API Testing Collection
+- Login Page Test Cases
+- Bug Reports Practice
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/khushi-sharma-a10b89336/
 -->
