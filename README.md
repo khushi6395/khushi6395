@@ -1,29 +1,27 @@
 # Hi, I'm Khushi Sharma 👋
 
 ## About Me
-- Learning QA Engineering
-- Currently learning Postman API Testing 
-- Interested in Automation Testing and Selenium
-- Improving testing and debugging skills
+- Aspiring Backend Developer
+- Currently learning Spring Boot
+- Build  Projects & API Testing
 
 ## Skills
-- Manual Testing
+- Java
 - API Testing
 - Postman
-- Bug Reporting
-- Test Case Writing
+- Servlets
+- JSP
 - Git & GitHub
+- Maven
 
 ## Currently Learning
 - Postman Collections
 - REST API Testing
-- Selenium WebDriver
+- Spring Boot
 
 ## Projects
-- Postman API Testing Collection
-- Login Page Test Cases
-- Bug Reports Practice
+- Student Grade Tracker
+- Email OTP-Based Login System
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/khushi-sharma-a10b89336/
--->
