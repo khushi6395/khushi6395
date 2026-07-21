@@ -1,7 +1,7 @@
 # Hi, I'm Khushi Sharma 👋
 
 ## About Me
-- Aspiring Backend Developer
+- Aspiring Software Engineer
 - Currently learning Spring Boot
 - Build  Projects & API Testing
 
@@ -15,7 +15,7 @@
 - Maven
 
 ## Currently Learning
-- Postman Collections
+- Spring Boot
 - REST API Testing
 - Spring Boot
 
