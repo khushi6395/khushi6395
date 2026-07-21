@@ -17,7 +17,6 @@
 ## Currently Learning
 - Spring Boot
 - REST API Testing
-- Spring Boot
 
 ## Projects
 - Student Grade Tracker
