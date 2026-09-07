@@ -1,6 +1,6 @@
 # Hi, I'm Khushi Sharma 👋
 
-### Aspiring Software Engineer | Java | Spring Boot | AI/ML & Computer Vision
+### Aspiring Software Engineer | Java  | AI/ML & Computer Vision
 
 I'm a final-year **B.Tech Computer Science Engineering student** interested in building practical software and AI-based applications.
 
